@@ -1,5 +1,7 @@
 'use strict'
 
+//观察者模式
+
 const util = require('util');  
 const EventEmitter = require('events').EventEmitter;
 
