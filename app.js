@@ -18,6 +18,7 @@ MyFancyObservable.prototype.hello = function (name) {
 };
 
 //使用
+
 const observable = new MyFancyObservable();
 
 observable.on('hello', function (name) {  
