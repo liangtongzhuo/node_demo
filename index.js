@@ -72,3 +72,7 @@
 
 
 console.log(typeof 'sss');
+
+function a(){
+    arguments
+}
