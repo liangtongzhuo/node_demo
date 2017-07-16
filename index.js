@@ -71,8 +71,15 @@
 // console.log(new String('aaaaa') instanceof String);
 
 
-console.log(typeof 'sss');
+// console.log(typeof 'sss');
 
-function a(){
-    arguments
+// function a(){
+//     arguments
+// }
+
+
+function Person (){
+
 }
+
+return
